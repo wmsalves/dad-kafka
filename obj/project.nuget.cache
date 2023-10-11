@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ljC7xzDmA2TaZ9dktH7vnk5QanwLQ/k27j1G1WIwrEW7cXEyBNt5qxXwiedD/7VunD5vBx9zBprlegFbye00qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Infinity\\Desktop\\FACULDADE\\dad-kafka\\dad-kafka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Infinity\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
+    "C:\\Users\\Infinity\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
+    "C:\\Users\\Infinity\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Infinity\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
